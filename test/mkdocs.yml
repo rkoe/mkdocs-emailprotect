@@ -1,0 +1,7 @@
+site_name: test emailprotect
+use_directory_urls: true
+theme:
+    name: null
+    custom_dir: 'theme/'
+plugins:
+    - emailprotect
