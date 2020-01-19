@@ -16,7 +16,7 @@ but it will prevent some spam-bots from finding the addresses. But note
 that this may also prevent legitimate address-crawlers and search engines
 from finding these addresses.
 
-Markdown already does something similar for `<mail@example.com>, but not
+Markdown already does something similar for `<mail@example.com>`, but not
 for `[mail@example.com](mailto:mail@example.com)` or for non-linked
 addresses, see:
 https://daringfireball.net/projects/markdown/syntax#autolink
