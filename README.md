@@ -10,7 +10,7 @@ spam-bots.
 
 Currently, it replaces everything (both in the contents and the template)
 looking like an email-address with its unicode numeric character reference,
-e.g. "a" -> "&#097;".
+e.g. `a@b` -> `&#097;&#064;&#098;`.
 This should be invisible to normal users and not affect the usability;
 but it will prevent some spam-bots from finding the addresses. But note
 that this may also prevent legitimate address-crawlers and search engines
